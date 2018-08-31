@@ -3,5 +3,7 @@
 Group Messenger between several distributed nodes using:
 
 -TCP Protocol for the communication between the server and the nodes
--UDP Protocol for the communication between nodes
+
+-UDP Protocol for the communication between node
+
 -FIFO Ordering algorithm for the messages between the nodes
